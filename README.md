@@ -25,12 +25,6 @@ RegisterNumber: 212225040253
 */
 ```
 ```
-/*
-Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Mohamed Sameem
-RegisterNumber: 212225040242
-*/
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
